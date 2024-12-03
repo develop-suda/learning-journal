@@ -12,3 +12,6 @@
 
 ## 12月2日
 [mizchiさんによる 「LAPRAS 公開パフォーマンスチューニング 」~調査編~](https://lapras.connpass.com/event/337670/)
+
+## 12月3日
+体調不良のためなし、悔しい
