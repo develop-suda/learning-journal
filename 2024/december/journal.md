@@ -212,3 +212,9 @@
 - [gologin](https://github.com/dghubble/gologin)
 - それにしても眠い
 - 25年中に英語とAWSを勉強しようと決意する
+
+## 12月24日
+
+- 我慢できずAWS学習をやり始める
+- 予定では3,4,5月をAWS強化月間となる
+- ［cloud tech］(https://kws-cloud-tech.com/)
