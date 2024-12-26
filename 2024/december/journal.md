@@ -229,3 +229,10 @@
 - いい加減クロスサイトスクリプティング覚えないか？
 - [CloudTech](https://kws-cloud-tech.com/)
 - 2/262 Steps 完了
+
+## 12月26日
+
+- SQLインジェクションについて
+- 理解できるけど実際に試したみたい、ローカルでテキトーに立ち上げてね
+- [CloudTech](https://kws-cloud-tech.com/)
+- 3/262 Steps 完了
