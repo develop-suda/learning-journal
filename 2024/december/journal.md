@@ -1,7 +1,7 @@
-# Learning Journal - November 2024
+# Learning Journal - December 2024
 
 ## 目次
-- [Learning Journal - November 2024](#learning-journal---november-2024)
+- [Learning Journal - December 2024](#learning-journal---december-2024)
   - [目次](#目次)
   - [12月1日](#12月1日)
   - [12月2日](#12月2日)
