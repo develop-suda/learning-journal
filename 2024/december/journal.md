@@ -33,6 +33,7 @@
   - [12月28日](#12月28日)
   - [12月29日](#12月29日)
   - [12月30日](#12月30日)
+  - [12月31日](#12月31日)
 
 ## 12月1日
 [実用Go言語](https://www.oreilly.co.jp/books/9784873119694/)
@@ -269,3 +270,10 @@
 - GitHub Copilotで一気にコメントを書くこれは甘え
 - [CloudTech](https://kws-cloud-tech.com/)
 - 14/262 Steps 完了
+
+## 12月31日
+
+- 仕事があったが変わらず勉強、明日もするで
+- [CloudTech](https://kws-cloud-tech.com/)
+- 22/262 Steps 完了
+
