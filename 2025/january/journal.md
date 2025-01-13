@@ -85,3 +85,7 @@
 - [JWTログイン](https://qiita.com/fujifuji1414/items/b95d3f0d5f79d77360cb)
 - [GitHubログイン](https://qiita.com/momotaro98/items/90d12c10a655f4026d82)
 - ↑二つを参考にして実装していこう
+
+## 1月13日
+- ハウスメーカー回って疲れちゃった
+- ほんとはがっつりやる予定だったけどできず、無念
