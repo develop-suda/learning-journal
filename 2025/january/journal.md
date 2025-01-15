@@ -1,4 +1,4 @@
-# Learning Journal - January 2025
+  # Learning Journal - January 2025
 
 ## 目次
 - [Learning Journal - January 2025](#learning-journal---january-2025)
@@ -95,3 +95,9 @@
 ## 1月14日
 - 今日もダメだった。。。
 - モチベーションを維持する方法と体力向上を考えなくては
+
+## 1月15日
+- 今日もできず
+- なんか勉強しないと頭が回らない気がする
+- 頭使わないと脳が老けるなど思う日々
+- 明日はやるんだぞ
